@@ -1,0 +1,63 @@
+.elements{
+margin: 2.5px;
+}
+
+.wrapper{
+	margin: 0 auto;
+	
+}
+
+.puzzle{
+	width: 300px;
+	margin: auto;
+	padding-top: 5px;
+
+}
+.block1{
+	width: 70px;
+	height: 70px;
+	float: left;
+	background:#8e44ad;
+}
+.block2{
+	width: 145px;
+	height: 70px;
+	float: left;
+	background:#2ECC71;
+}
+.block3{
+	width: 70px;
+	height: 145px;
+	float: right;
+	background:#e74c3c;
+}
+.block4{
+	width: 70px;
+	height: 220px;
+	float: left;
+	background:#3498DB;
+}
+.block5{
+	width: 70px;
+	height: 145px;
+	float: left;
+	background:#e74c3c;
+}
+.block6{
+	width: 70px;
+	height: 70px;
+	float: left;
+	background:#f1c40f;
+}
+.block7{
+	width: 145px;
+	height: 70px;
+	float: right;
+	background:#2ECC71;
+}
+.block8{
+	width: 220px;
+	height: 70px;
+	float: left;
+	background:#3498DB;
+}
